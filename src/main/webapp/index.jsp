@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deploying java web app using docker container Modified</h2>
+<h2>java web app in container with ansible + docker</h2>
 </body>
 </html>
